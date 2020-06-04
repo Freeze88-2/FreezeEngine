@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game", "LP18Ghosts\Game.csproj", "{914CE6C4-286A-47EC-A7D3-D69C60DEC9EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game", "TestGame\Game.csproj", "{914CE6C4-286A-47EC-A7D3-D69C60DEC9EA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreezeEngine", "FreezeEngine\FreezeEngine.csproj", "{02C80DE1-3570-42B2-B3C6-C86E8ED279AF}"
 EndProject
